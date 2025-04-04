@@ -1,0 +1,9 @@
+opencv-python
+numpy
+confluent-kafka
+torch
+psycopg2
+ultralytics
+paddlepaddle
+paddleocr
+Pillow
